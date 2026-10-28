@@ -1,0 +1,26 @@
+[
+  {
+    "title": "  Acme reports profit growth ",
+    "source": " Example   Wire ",
+    "timestamp": "2026-10-15T09:30:00+08:00",
+    "body": "Revenue gains as demand remains strong."
+  },
+  {
+    "title": "ACME REPORTS PROFIT GROWTH",
+    "source": "Syndicated News",
+    "timestamp": "2026-10-15T02:00:00Z",
+    "body": "Revenue gains as demand remains strong."
+  },
+  {
+    "title": "Fictional retailer posts losses",
+    "source": "Local Finance",
+    "timestamp": "2026-10-15T03:00:00Z",
+    "body": "Shares fall after weak sales."
+  },
+  {
+    "title": "Central bank releases meeting schedule",
+    "source": "Sample Journal",
+    "timestamp": "2026-10-15T04:00:00Z",
+    "body": "The committee will meet on Tuesday."
+  }
+]
